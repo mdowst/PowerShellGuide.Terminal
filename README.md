@@ -2,6 +2,8 @@
 
 This module is an extension of The PowerShell Guide that will allow you to view it directly in you terminal. 
 
+![PowerShellGuide.Terminal](Documentation/media/terminal.gif)
+
 # Installing
 This module is still under development, so it is not aviable in the PowerShell Gallery. But you can still install it as long as you know a little git.
 
