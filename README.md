@@ -1,6 +1,6 @@
 # PowerShellGuide.Terminal
 
-This module is an extension of The PowerShell Guide that will allow you to view it directly in you terminal. 
+This module is an extension of [The PowerShell Guide](https://powershellguide.com/) that will allow you to view it directly in you terminal. 
 
 
 https://github.com/mdowst/PowerShellGuide.Terminal/assets/7384306/c39c18c3-605b-4d63-9c54-1ea1d5b56d00
