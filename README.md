@@ -2,7 +2,9 @@
 
 This module is an extension of The PowerShell Guide that will allow you to view it directly in you terminal. 
 
-https://github.com/mdowst/PowerShellGuide.Terminal/assets/7384306/16d211ee-988c-4fc5-b62d-3eb0a48e5d5d
+
+https://github.com/mdowst/PowerShellGuide.Terminal/assets/7384306/c39c18c3-605b-4d63-9c54-1ea1d5b56d00
+
 
 
 # Installing
